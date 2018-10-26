@@ -1,0 +1,14 @@
+element.style {
+  margin-bottom: 60px;
+}
+
+
+
+footer{
+  height : 50px;
+  background-color: #ccc;
+  position: fixed;
+  width: 400px;
+  bottom: 0;
+  right: 50px;
+}
