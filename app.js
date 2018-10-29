@@ -1,3 +1,23 @@
+var name = prompt("Your name:", "");
+document.write("Hello ", name);
+
+
+
+<script>
+ 
+ if (confirm ("Isn't this wonderful?")) {
+     document.write("Yes!");
+ } else {
+     document.write("Turn that frown upside down!");
+ }
+  
+ </script>
+
+
+
+
+
+
 function stateQuestion() {
   var state ={'INDIANA', 'ILLINOIS', 'CALIFORNIA', ''
   var correct = false; //check this out!
@@ -23,3 +43,6 @@ function stateQuestion() {
       break;
     }
   }
+
+
+  // testing to see if this works
